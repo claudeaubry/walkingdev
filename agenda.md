@@ -8,6 +8,9 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
+
+| Août, 30   | . *Toulouse*       | . **[Permagilité](http://walkingdev.fr/#walkingdev/permagilite/blob/master/faq.md)**            | . Nathaniel Richand, Fabrice Aimetti, Claude Aubry  |
+
 | Juil, 4   | . *Toulouse*       | . **[Brouillards & boussoles](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 
 ## Échus
